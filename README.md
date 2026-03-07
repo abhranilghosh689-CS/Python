@@ -1,5 +1,6 @@
 # Python
 A python journey from a Noob to Less-Noob
+
 Week 1:
 * Did word operations
 * Basic Math Problems
